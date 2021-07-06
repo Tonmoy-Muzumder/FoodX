@@ -1,0 +1,38 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+nav{
+    height: 5%;
+    width: 100%;
+    background: #06203b;
+}
+label.logo{
+    font-size: 300%;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    padding: 0px 100px;
+    line-height: 80px;
+}
+ nav ul{
+     float: right;
+     margin-right: 300px;
+ }
+ ul li{
+     display: inline-block;
+     margin: 0 20px;
+     line-height: 50px;
+ }
+ nav a{
+     color: white;
+     font-size: 15px;
+     border: 1px solid transparent;
+     padding: 5px 10px;
+     border-radius: 3px;
+    
+ }
+
+a.activate-hover,a:hover{
+    border: 1px solid rgb(255, 255, 255);
+    transform: .2s;
+}
