@@ -1,3 +1,9 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+    list-style: none;
+}
 body{
     font-family: 'Ubuntu', sans-serif;
 }
@@ -21,7 +27,7 @@ label.logo{
  ul li{
      display: inline-block;
      margin: 0 20px;
-     line-height: 50px;
+     line-height: 80px;
  }
  nav a{
      color: white;
@@ -29,10 +35,11 @@ label.logo{
      border: 1px solid transparent;
      padding: 5px 10px;
      border-radius: 3px;
+     text-underline-offset: ;
     
  }
 
-a.activate-hover,a:hover{
+a.activate,a:hover{
     border: 1px solid rgb(255, 255, 255);
     transform: .2s;
 }
