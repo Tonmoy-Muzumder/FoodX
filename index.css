@@ -100,13 +100,3 @@ p{
     text-align: center;
     padding: 50px;
 }
-pie{
-    display: flex;
-    margin: 10px;
-    
-}
-.shadow{
-    margin: 5px 10px;
-    size: 5px 10px;
-}
-
