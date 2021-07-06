@@ -75,7 +75,7 @@ p{
   
 }
 .eating img{
-    width: 100%;
+    width: 200%;
     border-radius: 5%;
     
     
@@ -84,6 +84,7 @@ p{
 .secound{
     display: flex;  
     background-image: url(image/Frame\ 57.jpg);
+    height: 370px;
     background-repeat: no-repeat;
 }
 
@@ -95,28 +96,14 @@ p{
 }
 .about-me img{
 
-    width: 400px;
+    width: 200px;
+   margin: 50px 80px;
 }
 .recipie{
     text-align: center;
     padding: 20px;
 }
 
-.foot{
-
-    text-align: center;
-    height: 200px;
-    width: 1000 2px;
-    color: rgb(183, 221, 173);
-    background-color: rgb(27, 27, 39);
-    display: inline-flexbox;
-    line-height: 50px;
-   
-    
-}
-.foot h1{
-    color: magenta;
-}
 .box{
     width: 1000px;
     display: flex;
@@ -146,4 +133,20 @@ div.photo img{
     border-radius: 5%;
     
     
+}
+
+.foot{
+
+    text-align: center;
+    height: 200px;
+    width: 1000 2px;
+    color: rgb(183, 221, 173);
+    background-color: rgb(27, 27, 39);
+    display: inline-flexbox;
+    line-height: 50px;
+   
+    
+}
+.foot h1{
+    color: magenta;
 }
