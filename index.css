@@ -99,7 +99,7 @@ p{
 }
 .recipie{
     text-align: center;
-    padding: 50px;
+    padding: 20px;
 }
 
 .foot{
@@ -130,13 +130,20 @@ p{
     transform: translate(-50%, -50%,);
    position: relative;
 
+
 }
 div.photo img{
-    width: 250px;
+    width: 200px;
+    padding: 5px;
     
 }
 .photo{
-    width: 250px;
+    width: 300px;
+    margin: 50px 50px;
+
+    box-shadow: 10px 10px 30px 10px  gray;
+    padding: 20px;
+    border-radius: 5%;
     
     
 }
