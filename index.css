@@ -10,7 +10,7 @@ body{
 nav{
     height: 5%;
     width: 100%;
-    background: #06203b;
+    background: #ff00aa;
 }
 label.logo{
     font-size: 300%;
@@ -61,14 +61,16 @@ p{
     font: 700;
     padding: 5px 10px;
     border-radius: 20px;
+
+    
 }
 
 .first{
     display: flex;
 }
 .eating{
-    padding: 10px 10px 40px;
-    padding: 5%;
+    
+    margin: 50px 100px;
   
 }
 .eating img{
@@ -76,4 +78,25 @@ p{
     border-radius: 5%;
     
     
+}
+
+.secound{
+    display: flex;
+    
+    background-image: url(image/Frame\ 57.jpg);
+    display: flex;
+    padding: 0%;
+    margin: 0%;
+    background-repeat: no-repeat;
+}
+
+
+.about-me{
+
+    margin: 50px 100px;
+    padding-right: 180px;
+}
+.about-me img{
+    width: 500px;
+    size: 20px 60px;
 }
