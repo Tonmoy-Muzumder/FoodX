@@ -8,6 +8,7 @@ body{
     font-family: 'Ubuntu', sans-serif;
 }
 nav{
+    
     height: 5%;
     width: 100%;
     background: #ff00aa;
@@ -99,4 +100,20 @@ p{
 .recipie{
     text-align: center;
     padding: 50px;
+}
+
+.foot{
+
+    text-align: center;
+    height: 200px;
+    width: 1000 2px;
+    color: rgb(183, 221, 173);
+    background-color: rgb(27, 27, 39);
+    display: inline-flexbox;
+    line-height: 50px;
+   
+    
+}
+.foot h1{
+    color: magenta;
 }
